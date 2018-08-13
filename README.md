@@ -7,7 +7,7 @@ There are two directories:
 
 * Train_nomiss_final: This directory corresponds to Case 2 (Excluded) in the simulation part.
 
-***Usage
+### Usage
 
 * Please download the full directory and leave everything as it is (i.e., do not remove any file from the directory).
 
