@@ -3,9 +3,9 @@ This code is for the paper "Modeling Multi-way Relations with Hypergraph Embeddi
 
 There are two directories:
 
-* Train_miss_final: This directory corresponds to Case 1 (Included) in the simulation part.
+* Train_miss_final: This directory corresponds to Case 1 (Included) in the simulation part, and the algorithms tested include DeepWalk, LINE, HHE, and the proposed method.
 
-* Train_nomiss_final: This directory corresponds to Case 2 (Excluded) in the simulation part.
+* Train_nomiss_final: This directory corresponds to Case 2 (Excluded) in the simulation part, and the algorithms tested include MC-AGA, DeepWalk, LINE, HHE, and the proposed method.
 
 ### Usage
 
