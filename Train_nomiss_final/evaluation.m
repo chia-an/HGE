@@ -2,7 +2,10 @@ function [MAP,MP,MR,APs,Ps,Rs] = evaluation(trainT, testT, fpred, k)
 % [MAP,MP,MR] = evaluation(trainT, testT, fpred, k)
 %
 % Compute the ranking scores MAP@k, P@k, R@k.
-% 
+%
+% Chia-An Yu
+% b01201010@ntu.edu.tw
+%
 
 idx = randperm(size(testT,1));
 testT = testT(idx,:); fpred = fpred(idx,:);
@@ -64,7 +67,7 @@ end
 score = 0;
 num_hits = 0;
 for i=1:min(length(prediction), k)
-    if ismember(prediction(i),actual),
+    if ismember(prediction(i),actual),  % This line is made by Chia-An Yu
         %&& sum(prediction(1:i-1)==prediction(i))==0
         num_hits = num_hits + 1;
         score = score + num_hits / i;
