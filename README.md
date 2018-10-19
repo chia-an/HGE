@@ -1,5 +1,5 @@
 # Modeling Multi-way Relations with Hypergraph Embedding
-This code is for the paper "**Modeling Multi-way Relations with Hypergraph Embedding**," which will be presented in CIKM 2018.
+This code is for the paper "Modeling Multi-way Relations with Hypergraph Embedding," which will be presented in CIKM 2018.
 
 There are two directories:
 
@@ -14,6 +14,6 @@ There are two directories:
 * In the directory, execute the program files whose names start with "go", and the experimental results presented in the paper can be obtained.
 
 ### Acknowledgement
-We have adopted the codes in the file **averagePrecisionAtK.m**, authored by **Ben Hanmer**, in **part of the file evaluation.m** in both directories with minor modifications. We appreciate his efforts for the file averagePrecisionAtK.m.
+We have adopted the codes in the file **averagePrecisionAtK.m**, authored by **Ben Hanmer**, in part of the file evaluation.m in both directories with minor modifications. We appreciate his efforts for the file averagePrecisionAtK.m.
 
 Reference: https://github.com/benhamner/Metrics/blob/master/MATLAB/metrics/averagePrecisionAtK.m
