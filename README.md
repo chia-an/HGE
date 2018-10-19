@@ -1,5 +1,5 @@
 # Modeling Multi-way Relations with Hypergraph Embedding
-This code is for the paper "Modeling Multi-way Relations with Hypergraph Embedding," which will be presented in CIKM 2018.
+This code is for the paper "**Modeling Multi-way Relations with Hypergraph Embedding**," which will be presented in CIKM 2018.
 
 There are two directories:
 
