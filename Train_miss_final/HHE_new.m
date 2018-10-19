@@ -1,6 +1,10 @@
 function rep = HHE_new(dim,train)
 % dim = 5
 %delta_e = 5;   % degree of e
+%
+% Ching-Lun Tai
+% b03901048@ntu.edu.tw
+%
 
 % sorted data
 User = unique(train(:,1));

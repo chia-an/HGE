@@ -1,3 +1,7 @@
+% Chia-An Yu & Ching-Lun Tai
+% b01201010@ntu.edu.tw & b03901048@ntu.edu.tw
+%
+
 clear all
 load('Processed_train_miss_final.mat')
 load('rep_DW.mat')
