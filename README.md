@@ -12,3 +12,8 @@ There are two directories:
 * Please download the full directory and leave everything as it is (i.e., do not remove any file from the directory).
 
 * In the directory, execute the program files whose names start with "go", and the experimental results presented in the paper can be obtained.
+
+### Acknowledgement
+We have adopted the codes in the file averagePrecisionAtK.m, authored by Ben Hanmer, in part of the file evaluation.m in both directories with minor modifications. We appreciate his efforts for the file averagePrecisionAtK.m.
+
+Reference: https://github.com/benhamner/Metrics/blob/master/MATLAB/metrics/averagePrecisionAtK.m
